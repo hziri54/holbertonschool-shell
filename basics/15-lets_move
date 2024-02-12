@@ -1,2 +1,2 @@
 #!/bin/bash
-kil
+cd /tmp/test_mv
