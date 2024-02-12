@@ -1,2 +1,2 @@
 #!/bin/bash
-jf
+ ls /tmp/test_tree/welcome/to/'
