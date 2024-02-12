@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c 'touch hello chmod 644 hello
+ls -l hello
