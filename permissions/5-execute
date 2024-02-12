@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r--@:x
+bash -c 'touch hello chmod 644 hello
