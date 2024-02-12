@@ -1,2 +1,2 @@
 #!/bin/bash
-kl
+ls /tmp/my_first_directory/betty
