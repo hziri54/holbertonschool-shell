@@ -1,2 +1,2 @@
 #!/bin/bash
-kffg
+touch /tmp/test_emacs/file0.c~
